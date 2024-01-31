@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tgnk/workspace/02_atcoder/practice/aPG4B/01_vectorND/Ex18",
+      "program": "/Users/tgnk/workspace/02_atcoder/practice/aPG4B/01_vectorND/Ex18/build/Debug/outDebug"
+    }
+  ]
+}
